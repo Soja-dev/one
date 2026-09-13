@@ -649,7 +649,7 @@
 <header>
   <div class="container header-inner">
     <div style="display:flex;align-items:center;gap:12px;">
-      <button class="mobile-toggle" id="mobileToggle"><i class="fas fa-bars"></i></button>
+      <button class="mobile-toggle" id="mobileToggle"><em class="fas fa-bars"></em></button>
       <a class="brand" href="#"><i class="fas fa-leaf"></i> Nexus<span>Shop</span></a>
     </div>
 
